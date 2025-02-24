@@ -1,6 +1,6 @@
-# Welcome to GuardiansOfPixels! ✨🚀
+# Welcome to Guardians of the Pixels! ✨🚀
 
-Welcome to the official GitHub organization for **GuardiansOfPixels**, an exciting pixel-art game full of adventure, strategy, and creativity!
+Welcome to the official GitHub organization for **Guardians of the Pixels**, an exciting pixel-art game full of adventure, strategy, and creativity!
 
 ## 🎮 About the Game
 GuardiansOfPixels is a retro-style game where you take on the role of a brave guardian, fighting against dark forces to protect the realm of pixels. Solve challenges, explore dungeons, and customize your hero in this thrilling experience!
@@ -13,12 +13,11 @@ Here you will find all the source code, assets, and development resources relate
 - **docs**: Development guides and documentation.
 
 ## 👨‍👩‍👦 Contributing
-We welcome contributions from developers, artists, and enthusiasts! Check out our [Contribution Guidelines](./CONTRIBUTING.md) to get started.
+We welcome contributions from developers!
 
 ## 🚀 Get Involved
-- Join our discussions on [Discord](https://discord.gg/yourserver)
+- Join our discussions on [Discord](https://dc.gop-game.de)
 - Report bugs and suggest features via [GitHub Issues](https://github.com/GuardiansOfPixels/game-engine/issues)
-- Follow us on [Twitter](https://twitter.com/GuardiansOfPixels) for updates
 
 ## ✨ Support Us
 If you love what we do, consider supporting the project by:
